@@ -1,1 +1,3 @@
 # coderboy
+
+Becoming a competitive programmer...
